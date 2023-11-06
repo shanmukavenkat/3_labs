@@ -1,0 +1,8 @@
+C:\Users\ranke\source\repos\Experiment10\bin\Debug\Experiment10.exe.config
+C:\Users\ranke\source\repos\Experiment10\bin\Debug\Experiment10.exe
+C:\Users\ranke\source\repos\Experiment10\bin\Debug\Experiment10.pdb
+C:\Users\ranke\source\repos\Experiment10\obj\Debug\Experiment10.csproj.AssemblyReference.cache
+C:\Users\ranke\source\repos\Experiment10\obj\Debug\Experiment10.csproj.SuggestedBindingRedirects.cache
+C:\Users\ranke\source\repos\Experiment10\obj\Debug\Experiment10.csproj.CoreCompileInputs.cache
+C:\Users\ranke\source\repos\Experiment10\obj\Debug\Experiment10.exe
+C:\Users\ranke\source\repos\Experiment10\obj\Debug\Experiment10.pdb

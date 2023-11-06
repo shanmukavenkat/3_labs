@@ -1,0 +1,8 @@
+C:\Users\ranke\source\repos\nested_namespace\bin\Debug\nested_namespace.exe.config
+C:\Users\ranke\source\repos\nested_namespace\bin\Debug\nested_namespace.exe
+C:\Users\ranke\source\repos\nested_namespace\bin\Debug\nested_namespace.pdb
+C:\Users\ranke\source\repos\nested_namespace\obj\Debug\nested_namespace.csproj.AssemblyReference.cache
+C:\Users\ranke\source\repos\nested_namespace\obj\Debug\nested_namespace.csproj.SuggestedBindingRedirects.cache
+C:\Users\ranke\source\repos\nested_namespace\obj\Debug\nested_namespace.csproj.CoreCompileInputs.cache
+C:\Users\ranke\source\repos\nested_namespace\obj\Debug\nested_namespace.exe
+C:\Users\ranke\source\repos\nested_namespace\obj\Debug\nested_namespace.pdb

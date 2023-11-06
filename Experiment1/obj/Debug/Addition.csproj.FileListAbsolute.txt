@@ -1,0 +1,8 @@
+C:\Users\ranke\source\repos\Addition\bin\Debug\Addition.exe.config
+C:\Users\ranke\source\repos\Addition\bin\Debug\Addition.exe
+C:\Users\ranke\source\repos\Addition\bin\Debug\Addition.pdb
+C:\Users\ranke\source\repos\Addition\obj\Debug\Addition.csproj.AssemblyReference.cache
+C:\Users\ranke\source\repos\Addition\obj\Debug\Addition.csproj.SuggestedBindingRedirects.cache
+C:\Users\ranke\source\repos\Addition\obj\Debug\Addition.csproj.CoreCompileInputs.cache
+C:\Users\ranke\source\repos\Addition\obj\Debug\Addition.exe
+C:\Users\ranke\source\repos\Addition\obj\Debug\Addition.pdb

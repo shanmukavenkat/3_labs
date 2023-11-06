@@ -1,0 +1,15 @@
+C:\Users\ranke\source\repos\method_overload_datatype\bin\Debug\net6.0\method_overload_datatype.exe
+C:\Users\ranke\source\repos\method_overload_datatype\bin\Debug\net6.0\method_overload_datatype.deps.json
+C:\Users\ranke\source\repos\method_overload_datatype\bin\Debug\net6.0\method_overload_datatype.runtimeconfig.json
+C:\Users\ranke\source\repos\method_overload_datatype\bin\Debug\net6.0\method_overload_datatype.dll
+C:\Users\ranke\source\repos\method_overload_datatype\bin\Debug\net6.0\method_overload_datatype.pdb
+C:\Users\ranke\source\repos\method_overload_datatype\obj\Debug\net6.0\method_overload_datatype.csproj.AssemblyReference.cache
+C:\Users\ranke\source\repos\method_overload_datatype\obj\Debug\net6.0\method_overload_datatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranke\source\repos\method_overload_datatype\obj\Debug\net6.0\method_overload_datatype.AssemblyInfoInputs.cache
+C:\Users\ranke\source\repos\method_overload_datatype\obj\Debug\net6.0\method_overload_datatype.AssemblyInfo.cs
+C:\Users\ranke\source\repos\method_overload_datatype\obj\Debug\net6.0\method_overload_datatype.csproj.CoreCompileInputs.cache
+C:\Users\ranke\source\repos\method_overload_datatype\obj\Debug\net6.0\method_overload_datatype.dll
+C:\Users\ranke\source\repos\method_overload_datatype\obj\Debug\net6.0\refint\method_overload_datatype.dll
+C:\Users\ranke\source\repos\method_overload_datatype\obj\Debug\net6.0\method_overload_datatype.pdb
+C:\Users\ranke\source\repos\method_overload_datatype\obj\Debug\net6.0\method_overload_datatype.genruntimeconfig.cache
+C:\Users\ranke\source\repos\method_overload_datatype\obj\Debug\net6.0\ref\method_overload_datatype.dll

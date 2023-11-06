@@ -1,0 +1,15 @@
+C:\Users\ranke\source\repos\hierarchial_inheritance\bin\Debug\net6.0\hierarchial_inheritance.exe
+C:\Users\ranke\source\repos\hierarchial_inheritance\bin\Debug\net6.0\hierarchial_inheritance.deps.json
+C:\Users\ranke\source\repos\hierarchial_inheritance\bin\Debug\net6.0\hierarchial_inheritance.runtimeconfig.json
+C:\Users\ranke\source\repos\hierarchial_inheritance\bin\Debug\net6.0\hierarchial_inheritance.dll
+C:\Users\ranke\source\repos\hierarchial_inheritance\bin\Debug\net6.0\hierarchial_inheritance.pdb
+C:\Users\ranke\source\repos\hierarchial_inheritance\obj\Debug\net6.0\hierarchial_inheritance.csproj.AssemblyReference.cache
+C:\Users\ranke\source\repos\hierarchial_inheritance\obj\Debug\net6.0\hierarchial_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ranke\source\repos\hierarchial_inheritance\obj\Debug\net6.0\hierarchial_inheritance.AssemblyInfoInputs.cache
+C:\Users\ranke\source\repos\hierarchial_inheritance\obj\Debug\net6.0\hierarchial_inheritance.AssemblyInfo.cs
+C:\Users\ranke\source\repos\hierarchial_inheritance\obj\Debug\net6.0\hierarchial_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ranke\source\repos\hierarchial_inheritance\obj\Debug\net6.0\hierarchial_inheritance.dll
+C:\Users\ranke\source\repos\hierarchial_inheritance\obj\Debug\net6.0\refint\hierarchial_inheritance.dll
+C:\Users\ranke\source\repos\hierarchial_inheritance\obj\Debug\net6.0\hierarchial_inheritance.pdb
+C:\Users\ranke\source\repos\hierarchial_inheritance\obj\Debug\net6.0\hierarchial_inheritance.genruntimeconfig.cache
+C:\Users\ranke\source\repos\hierarchial_inheritance\obj\Debug\net6.0\ref\hierarchial_inheritance.dll

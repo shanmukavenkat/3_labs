@@ -1,0 +1,8 @@
+C:\Users\ranke\source\repos\Sum\bin\Debug\Sum.exe.config
+C:\Users\ranke\source\repos\Sum\bin\Debug\Sum.exe
+C:\Users\ranke\source\repos\Sum\bin\Debug\Sum.pdb
+C:\Users\ranke\source\repos\Sum\obj\Debug\Sum.csproj.AssemblyReference.cache
+C:\Users\ranke\source\repos\Sum\obj\Debug\Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\ranke\source\repos\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Users\ranke\source\repos\Sum\obj\Debug\Sum.exe
+C:\Users\ranke\source\repos\Sum\obj\Debug\Sum.pdb
